@@ -10,5 +10,5 @@
 학년: 3학년  
 학번: 20185264  
 Email: heeyeon0105@gmail.com  
-GitHub: [github.com/Yeon0105](https://github.com/Yeon0105)      
+GitHub: [github.com/Yeon0105](https://github.com/Yeon0105)  
 
