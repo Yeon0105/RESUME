@@ -25,9 +25,10 @@ GitHub: [github.com/Yeon0105](https://github.com/Yeon0105)
 ## 자격증
 <img src=PADI.jpg width=300 height=300>   
 <img src=SSI.jpg width=400 height=300>    
-* PADI 스쿠버다이빙 OpenWater 자격증       
-* PADI 스쿠버다이빙 Advanced 자격증     
-* SSI 프리다이빙 POOL 자격증   
+
+* PADI 스쿠버다이빙 OpenWater 자격증        
+* PADI 스쿠버다이빙 Advanced 자격증      
+* SSI 프리다이빙 POOL 자격증    
 
 ------------------------
 ## 학력
