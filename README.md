@@ -14,17 +14,28 @@ Email: heeyeon0105@gmail.com
 GitHub: [github.com/Yeon0105](https://github.com/Yeon0105)  
 
 ------------------------
+
 ## 취미  
 * 수영  
 * 프리다이빙  
 * 스쿠버다이빙  
 * 라떼아트  
+
+------------------------
+## 자격증
+<img src=PADI.jpg width=300 height=300>   
+<img src=SSI.jpg width=400 height=300>    
+* PADI 스쿠버다이빙 OpenWater 자격증       
+* PADI 스쿠버다이빙 Advanced 자격증     
+* SSI 프리다이빙 POOL 자격증   
+
 ------------------------
 ## 학력
 * 중화초등학교 졸업 (2007~2012)  
 * 상봉중학교 졸업 (2013~2015)  
 * 신현고등학교 졸업 (2016~2018)  
 * 한림대학교 재학 (2021년 졸업 예정)  
+
 -------------------------
 ## 사용 가능 언어
 * Java
@@ -34,10 +45,12 @@ GitHub: [github.com/Yeon0105](https://github.com/Yeon0105)
 * C#
 * Python
 * Linux
+
 -------------------------
 ## 사용 가능 엔진  
 * Unity   
 * Unreal  
+
 ---------------------------
 ## 최근 관심 분야
 * 게임개발  
@@ -45,6 +58,7 @@ GitHub: [github.com/Yeon0105](https://github.com/Yeon0105)
 * 그래픽스  
 * 정보보안  
 * 인공지능  
+
 ---------------------------
 ## 학년 별 공부했던 과목  
 
